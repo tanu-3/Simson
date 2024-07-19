@@ -1,17 +1,19 @@
 # Simson
+
+
 Created a game for playing where we have to remeber the sequence.
 
-##Description
+## Description
 
 basically in this we have defined Fit.css, Fit.html and Fit.js for various functioning of game.
 
-##Steps
+## Steps
 
 1. copy all three in vs code 
 2. then run the files to see the website and play the game.
 
 
-##License
+## License
 
 TANU 
 @tanu
